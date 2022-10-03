@@ -20,4 +20,4 @@ pip install scikit-learn
 
 ## Model Description
 
-80% of the dataset is used to train the model and 20% is used for testing. The features used to predict final grade are first grade, second grade, studytime, failures and absences. The accuracy of the model is 84%.
+80% of the dataset is used to train the model and 20% is used for testing. The features used to predict final grade are first grade, second grade, studytime, failures and absences. The accuracy of the model is 78%.
